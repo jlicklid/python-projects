@@ -1,0 +1,15 @@
+nltk
+
+pymongo
+
+execnet
+
+pyenchant
+pyyaml
+
+chardet
+beautifulsoup4
+lxml
+simpleparse
+
+lockfile

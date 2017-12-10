@@ -1,0 +1,10 @@
+README.rst
+setup.py
+example/__init__.py
+example/config.py
+example/core.py
+example/helpers.py
+nltk_cookbook.egg-info/PKG-INFO
+nltk_cookbook.egg-info/SOURCES.txt
+nltk_cookbook.egg-info/dependency_links.txt
+nltk_cookbook.egg-info/top_level.txt
